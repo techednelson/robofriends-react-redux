@@ -8,5 +8,13 @@
 h1 {
     font-family: 'SEGA LOGO FONT';
     font-weight: 200;
-    color: #0ccac4;
+    color: #325DAC;
+}
+
+h2 {
+    color: #325DAC;
+}
+
+.bg-card {
+    background-color: #6AC8E9;
 }
